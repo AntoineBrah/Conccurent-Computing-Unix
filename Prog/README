@@ -1,0 +1,11 @@
+/*******************************/
+/*** UTILISATION DU MAKEFILE ***/
+/*******************************/
+
+- Générer les executables via la commande : 'make'
+
+- Deux executables sont générés : 'serveur' et 'client'
+
+- Éxecuter le serveur : './serveur' puis le client './client'
+
+- Supprimer les fichiers objets : 'make clear'
